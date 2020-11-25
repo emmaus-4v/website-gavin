@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: rgb(197, 53, 9);  
+    background-color: white
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: lightgreen;
+    color: skyblue
     text-align: center;
 }
 
@@ -36,14 +36,14 @@ footer {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
+img.plaatje1 {
     float:left;
     margin-right: 15px;
     width: 250x;
     height: 250px;
 }
 
-img.zweefRechts {
+img.plaatje2 {
     float:right;
     margin-left: 15px;
     width: 250px;
