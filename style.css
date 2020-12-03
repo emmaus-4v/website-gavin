@@ -39,8 +39,8 @@ footer {
 img.plaatje1 {
     float:left;
     margin-right: 15px;
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
 }
 
 img.plaatje2 {
@@ -69,7 +69,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: lightblue;
     overflow: hidden;
 }
 
@@ -81,17 +81,17 @@ nav li a {
     display: block;
     color: rgb(255, 255, 255);
     text-align: center;
-    padding: 14px 16px;
+    padding: 16px;
     text-decoration: none;
-    background-color:lightgreen;
+    background-color: lightblue;
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: rgb(24, 175, 212);
 }
 
 nav li a.active {
-    background-color: green;
+    background-color: blue;
 }
 
 
